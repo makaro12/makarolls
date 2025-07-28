@@ -26,7 +26,7 @@ If you're curious, feel free to check my other work or just say hi on Discord! ð
 
 ## ðŸ’¬ Contact Me:
 
-- **Discord:** _makaro_  
+- **Discord:** _makaro_ (with underscores  in the start and the end)
 - **Email:** jawitek100@gmail.com  
 
 ---
